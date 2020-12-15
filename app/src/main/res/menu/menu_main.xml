@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pt.flawless.soccermanager.UI.MainActivity">
+
+    <item android:id="@+id/menu_team_manage"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Manage"
+        app:showAsAction="always"/>
+</menu>
